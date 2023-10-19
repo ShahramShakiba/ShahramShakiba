@@ -3,7 +3,7 @@
 <meta http-equiv='pragma' content='no-cache'>
 
 
-<div align='center'>
+<div align='left'>
 <div id="header" align="center" >
   <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/ff8e31af-8501-4687-8580-17e8d4d7871f" width='550'/>
 </div>
@@ -13,11 +13,18 @@
  𝑰'𝒎 𝑺𝒉𝒂𝒉𝒓𝒂𝒎
   </h2>
 </div>
-𝗜 𝗮𝗺 "𝗗𝗲𝗱𝗶𝗰𝗮𝘁𝗲𝗱", "𝗙𝗹𝗲𝘅𝗶𝗯𝗹𝗲" 𝗮𝗻𝗱 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗯𝗲𝗮𝘂𝘁𝗶𝗳𝘂𝗹 𝘄𝗲𝗯 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲
-𝑰 𝒂𝒎 " 𝒅𝒆𝒅𝒊𝒄𝒂𝒕𝒆𝒅 " , " 𝒇𝒍𝒆𝒙𝒊𝒃𝒍𝒆 " 𝒂𝒏𝒅 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒆𝒂𝒖𝒕𝒊𝒇𝒖𝒍 𝒘𝒆𝒃 𝒊𝒏𝒕𝒆𝒓𝒇𝒂𝒄𝒆𝒔 ♬.<br/> 
-𝑰𝒏 𝒂𝒅𝒅𝒊𝒕𝒊𝒐𝒏 𝒕𝒐 𝒕𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝒆𝒙𝒑𝒆𝒓𝒕𝒊𝒔𝒆 ㋡, <br/>
-    𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔 𝒆𝒙𝒄𝒆𝒍𝒍𝒆𝒏𝒕 " 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝑺𝒌𝒊𝒍𝒍𝒔 " <br/>
-  𝒕𝒉𝒂𝒕 𝒆𝒏𝒂𝒃𝒍𝒆 𝒎𝒆 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆 𝒆𝒇𝒇𝒆𝒄𝒕𝒊𝒗𝒆𝒍𝒚 𝒘𝒊𝒕𝒉 " 𝑪𝒍𝒊𝒆𝒏𝒕𝒔 " 𝒂𝒏𝒅 " 𝑻𝒆𝒂𝒎 𝑴𝒆𝒎𝒃𝒆𝒓 "☕. <br/><br/>
+👨🏻‍💻 I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm <br/> 
+ when it comes to crafting responsive and user-friendly web interfaces. <br/><br/>
+
+📜 In my approach, whenever I engage in a task, I strive to achieve the utmost excellence and attain the finest outcome possible.
+
+📚 As a developer, my commitment lies in continuously advancing my professional growth. I actively pursue avenues to broaden my expertise and stay updated with the latest industry trends and emerging technologies, ensuring that I remain at the forefront of my field.
+
+☄️ As an individual with exceptional communication skills and technical proficiency, I am committed to develop strong relationships with my team and clients. <br/> 
+By building these connections, I can better understand their unique needs and work collaboratively to provide the highest quality of service. 🤝
+
+💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒.
+
 
 <h3>💻 𝑴𝒚 𝑾𝒐𝒓𝒌 : &nbsp; <a href="https://github.com/ShahramShakiba?tab=repositories">𝑪𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆...</a> 😃</h3> <br/>
 
