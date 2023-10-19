@@ -17,7 +17,6 @@
   <br>
   
 <div align="center">
-  <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="60px" width="60px"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +39,7 @@
   
 <!--=================================== ABOUT ME ====================================-->
 <h1> About me </h1> 
-👨🏻‍💻 I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm when it comes to crafting responsive and user-friendly web interfaces. <br/>
+<img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="25px" width="25px"> &nbsp; I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm when it comes to crafting responsive and user-friendly web interfaces. <br/>
 
 📜 In my approach, whenever I engage in a task, I strive to achieve the utmost excellence and attain the finest outcome possible.
 
@@ -52,8 +51,7 @@
 
 
 <!--=================================== MY SKILLS ===================================-->
-<h3> 👨🏻‍💻 I code with:  </h3> <br/>
-
+<h2> 💻 I code with:  </h2>
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -67,7 +65,7 @@
 
 <br/><br/>
 
-### ✚ Also, I have worked with some tools like: 
+<h3> ✚ Also, I have worked with some tools like:  </h3> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -105,8 +103,9 @@
 <!--============================== MY VISITORS ==============================-->
 <div id="header" align="center" >
   
-### 👀 𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 :
+### 𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 :
 <div align="center">
+  <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="50px" width="50px"> &nbsp;&nbsp;&nbsp;
   <img src="https://profile-counter.glitch.me/ShahramShakiba/count.svg?"  />
 </div>
  <br/><br/>
