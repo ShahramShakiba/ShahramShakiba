@@ -5,7 +5,7 @@
 <!--============================== WELCOME IMAGE ==============================-->
 <div align='left'>
 <div id="header" align="center" >
-  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/ff8e31af-8501-4687-8580-17e8d4d7871f" width='450'/>
+  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/1c4094fa-5656-45d3-9aca-2b1101401ae6" width='950' height="350"  alt="perfect night"  />
 </div>
 <div align='center'> 
   <h3>
@@ -49,7 +49,7 @@
 
 💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒.
 
-<br/>
+
 
 <!--=================================== MY SKILLS ===================================-->
 <h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp;  I code with:  </h2> 
@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
 
-<br/><br/>
+<br/>
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="35" height="35" /> &nbsp; I have experience using tools such as :  </h3> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
@@ -91,7 +91,7 @@
   <img width="12" />
   
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
- <br/><br/><br/><br/>
+ <br/><br/><br/>
 
 
 <!--=================================== MY STATS ===================================-->
@@ -121,8 +121,10 @@
 
 
 
-
 <!-- 
+profile image :
+  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/ff8e31af-8501-4687-8580-17e8d4d7871f" width='450'/>
+
 <h4> My hobbies : </h4>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="35" height="35" />
 
