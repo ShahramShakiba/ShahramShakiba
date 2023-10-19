@@ -15,9 +15,9 @@
 </div>
 
   
-<!--============================== ABOUT ME ==============================-->
+<!--=================================== ABOUT ME ====================================-->
 ### About me
-👨🏻‍💻 I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm when it comes to crafting responsive and user-friendly web interfaces. <br/><br/>
+👨🏻‍💻 I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm when it comes to crafting responsive and user-friendly web interfaces. <br/>
 
 📜 In my approach, whenever I engage in a task, I strive to achieve the utmost excellence and attain the finest outcome possible.
 
@@ -25,52 +25,62 @@
 
 ☄️ As an individual with exceptional communication skills and technical proficiency, I am committed to develop strong relationships with my team and clients 🤝 <br/> 
 
-💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒. <br/><br/>
-***
-
-<!--============================== MY WORK ================================-->
-<h3>💻 𝑴𝒚 𝑾𝒐𝒓𝒌 : &nbsp; <a href="https://github.com/ShahramShakiba?tab=repositories">𝑪𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆...</a> 😃</h3> <br/>
+💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒. <br/><br/><br/>
 
 
-<!--============================== MY SKILLS ==============================-->
-<h3> 🚀 &nbsp;𝑺𝒐𝒎𝒆 "𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔" 𝒂𝒏𝒅 "𝑻𝒐𝒐𝒍𝒔" 𝑰 𝒉𝒂𝒗𝒆 𝒖𝒔𝒆𝒅 𝒂𝒏𝒅 𝒍𝒆𝒂𝒓𝒏𝒆𝒅 </h2> <br/>
-<div>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> &nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/> &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp;  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-</div> <br/><br/>
+<!--=================================== MY SKILLS ===================================-->
+<h2> 👨🏻‍💻 My areas of expertise included:  </h2> <br/>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) &nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+
+<br/>
+
+### ✚ Also, I have worked with some tools like: 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) &nbsp;
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) &nbsp;
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) &nbsp;
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) 
+
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) &nbsp;
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) &nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) &nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) &nbsp;
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) &nbsp;
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
+ <br/><br/>
+
+<!--=================================== CONTACT ME ====================================-->
+###  ☏ 𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shahramshakiba//) &nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/ShahramDev) &nbsp;&nbsp; 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/message/LM2IMM3ABZ7ZM1) &nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/shahram.shakibaa?igshid=MzNlNGNkZWQ4Mg==/) &nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/DevZEEMO) 
+ <br/><br/> <br/>
 
 
-<!--========================= MY WORK =========================-->
- 
-
-
- 
-
-
-<!--============================== CONTACT ME ==============================-->
-## <div> ☏ 𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆 </div>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShahramShakiba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shahramshakiba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/shahram.shakibaa?igshid=MzNlNGNkZWQ4Mg==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/DevZEEMO)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/ShahramDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/message/LM2IMM3ABZ7ZM1) <br/><br/>
-
-
-<!--============================== MY STATS ==============================-->
+<!--=================================== MY STATS ===================================-->
 ## 🔥 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔
-<div id="header" align="center" >
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250)](https://git.io/streak-stats) &nbsp; &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&layout=compact&theme=vision-friendly-dark) <br/>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/ShahramShakiba)  
 
-</div>
-
 
 <!--============================== MY VISITORS ==============================-->
+<div id="header" align="center" >
+  
 ### 👀 𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 :
-<div>
-<img src="https://komarev.com/ghpvc/?username=ShahramShakiba&style=flat-square&color=blue" alt=""/>
-</div> <br/><br/>
+[![](https://visitcount.itsvg.in/api?id=ShahramShakiba&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
+ <br/><br/>
 
-![Profile views](https://gpvc.arturio.dev/ShahramShakiba)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShahramShakiba) 
-
+  
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
+  
 </div>
