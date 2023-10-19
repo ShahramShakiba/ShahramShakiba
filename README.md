@@ -5,18 +5,18 @@
 <!--============================== WELCOME IMAGE ==============================-->
 <div align='left'>
 <div id="header" align="center" >
-  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/ff8e31af-8501-4687-8580-17e8d4d7871f" width='550'/>
+  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/ff8e31af-8501-4687-8580-17e8d4d7871f" width='450'/>
 </div>
 <div align='center'> 
-  <h2>
+  <h3>
    𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆 <img src='https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035' width="25"/>
  𝑰'𝒎 𝑺𝒉𝒂𝒉𝒓𝒂𝒎
-  </h2>
+  </h3>
 </div>
 
   
 <!--=================================== ABOUT ME ====================================-->
-### About me
+<h1> About me </h1> 
 👨🏻‍💻 I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm when it comes to crafting responsive and user-friendly web interfaces. <br/>
 
 📜 In my approach, whenever I engage in a task, I strive to achieve the utmost excellence and attain the finest outcome possible.
