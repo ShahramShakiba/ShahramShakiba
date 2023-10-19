@@ -41,17 +41,19 @@
 <h1> About me </h1> 
 <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="25px" width="25px"> &nbsp; I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm when it comes to crafting responsive and user-friendly web interfaces. <br/>
 
-📜 In my approach, whenever I engage in a task, I strive to achieve the utmost excellence and attain the finest outcome possible.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="18" height="18" /> In my approach, whenever I engage in a task, I strive to achieve the utmost excellence and attain the finest outcome possible.
 
-📚 As a developer, I actively pursue avenues to broaden my expertise and stay updated with the latest industry trends and emerging technologies, ensuring that I remain at the forefront of my field.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> As a developer, I actively pursue avenues to broaden my expertise and stay updated with the latest industry trends and emerging technologies, ensuring that I remain at the forefront of my field.
 
-☄️ As an individual with exceptional communication skills and technical proficiency, I am committed to develop strong relationships with my team and clients 🤝 <br/> 
+☄️ As an individual with exceptional communication skills and technical proficiency, I am committed to develop strong relationships with my team and clients &nbsp; <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/a9dec4a6-5d2a-4936-aa95-db21503a23e1" height="20" alt="hand shacking"  /> <br/> 
 
-💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒. <br/><br/><br/>
+💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒.
 
+<br/>
 
 <!--=================================== MY SKILLS ===================================-->
-<h2> 💻 I code with:  </h2>
+<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp;  I code with:  </h2> 
+
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -65,7 +67,7 @@
 
 <br/><br/>
 
-<h3> ✚ Also, I have worked with some tools like:  </h3> 
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="35" height="35" /> &nbsp; I have experience using tools such as :  </h3> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -89,11 +91,12 @@
   <img width="12" />
   
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
- <br/><br/><br/>
+ <br/><br/><br/><br/>
 
 
 <!--=================================== MY STATS ===================================-->
-## 🔥 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔
+<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/cac7d15f-b25e-42d6-9a0b-b189e55702be" height="40" alt="fire"  /> &nbsp; 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔 </h2>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250)](https://git.io/streak-stats) &nbsp; &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&layout=compact&theme=vision-friendly-dark) <br/>
 
 
@@ -110,10 +113,33 @@
 </div>
  <br/><br/>
 
+  ![dino](https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/efb3168b-6da5-4ee0-a8af-de8106046d9d)
+
+
   
+</div>
+
+
+
+
+<!-- 
+<h4> My hobbies : </h4>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="35" height="35" />
+
+### My hobbies : 
+💪🏽 Gym <br/>
+🏃🏽‍♂️ Running 💨💨<br/>
+🎵 Music <br/>
+🚴🏼 Cycling <br/>
+🎬 Movies🍿 <br/>
+🎮 Games <br/>
+🏖 sunbathing <br/>
+🏕 camping
+
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
-  
-</div>
+-->
+
 
