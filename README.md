@@ -12,11 +12,10 @@
    𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆 <img src='https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035' width="25"/>
  𝑰'𝒎 𝑺𝒉𝒂𝒉𝒓𝒂𝒎
   </h3>
-</div>
+</div> <br>
 
-  <br>
  
-
+<!--=================================== SOCIAL MEDIA ====================================-->
   <div align="center">
   <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
     <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/53dee3b8-0ea1-4a05-a75f-5871d3fb01d4" width="51" height="51" alt="linkedin logo"  />
@@ -47,10 +46,9 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> As a developer, I actively pursue avenues to broaden my expertise and stay updated with the latest industry trends and emerging technologies, ensuring that I remain at the forefront of my field.
 
-☄️ As an individual with exceptional communication skills and technical proficiency, I am committed to develop strong relationships with my team and clients &nbsp; <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/a9dec4a6-5d2a-4936-aa95-db21503a23e1" height="20" alt="hand shacking"  /> <br/> 
+☄️ As an individual with exceptional communication skills and technical proficiency, I am committed to develop strong relationships with my team and clients <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  /> <br/> 
 
-💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒.
-
+💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒. 
 
 
 <!--=================================== MY SKILLS ===================================-->
@@ -96,6 +94,15 @@
  <br/><br/><br/>
 
 
+<!--=================================== My Hobbies ====================================-->
+<h3> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8f5d1caa-fb25-4b86-b0d5-ee030b9cab1d" width="35" height="35" alt="vscode logo"  /> My hobbies : </h3>
+<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="Musical Notes" width="55" height="55" /> &nbsp;  
+<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" width="55" height="55" /> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="50" height="50" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/2b633c28-9b84-438f-9b70-5c4c01abff43" alt="Musical Notes" width="55" height="55" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8b202f8d-c36e-466c-ade6-85d42cce6ff7" alt="Musical Notes" width="55" height="55" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/d061c844-fd22-4353-81c4-74ce183b11a2" width="55" height="55" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/07be43eb-6346-4e81-ae38-80f6ba551e21" width="55" height="55" />  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/84956992-e381-4a4d-9ad4-feb37ded6281" width="55" height="50" />
+
+<br/>
+<br/><br/>
+
+
 <!--=================================== MY STATS ===================================-->
 <h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/cac7d15f-b25e-42d6-9a0b-b189e55702be" height="40" alt="fire"  /> &nbsp; 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔 </h2>
   
@@ -128,26 +135,20 @@
 
 
 
-
-
-
-
 <!-- 
 profile image :
   <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/ff8e31af-8501-4687-8580-17e8d4d7871f" width='450'/>
 
-<h4> My hobbies : </h4>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="35" height="35" />
+line :
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/e219ce2f-ab73-4d13-85f2-e75b8ae0e216)
+
+![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/54c5f8cd-d8f2-4fb6-a726-0049527a6d37)
+
+
+
 
 ### My hobbies : 
-💪🏽 Gym <br/>
-🏃🏽‍♂️ Running 💨💨<br/>
-🎵 Music <br/>
-🚴🏼 Cycling <br/>
-🎬 Movies🍿 <br/>
-🎮 Games <br/>
-🏖 sunbathing <br/>
-🏕 camping
+
 
 
 ### 😂 Random Dev Meme
