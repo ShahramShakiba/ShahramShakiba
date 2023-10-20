@@ -45,8 +45,8 @@
 
   
 <!--=================================== ABOUT ME ====================================-->
-<h1> About me </h1> 
-<img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="25px" width="25px"> &nbsp; I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm when it comes to crafting responsive and user-friendly web interfaces. <br/>
+<h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> About me </h1> 
+<img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="20px" width="20px"> &nbsp; I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm when it comes to crafting responsive and user-friendly web interfaces. <br/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="18" height="18" /> In my approach, whenever I engage in a task, I strive to achieve the utmost excellence and attain the finest outcome possible.
 
@@ -57,8 +57,9 @@
 💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒. <br/>
 
 
+
 <!--=================================== MY SKILLS ===================================-->
-<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp;  I code with:  </h2> 
+<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I code with:  </h2> 
 
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -73,7 +74,7 @@
 
 <br/>
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="35" height="35" /> &nbsp; I have experience using tools such as :  </h3> 
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have experience using tools such as :  </h3> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -101,7 +102,7 @@
 
 
 <!--=================================== My Hobbies ====================================-->
-<h3> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8f5d1caa-fb25-4b86-b0d5-ee030b9cab1d" width="28" height="28" alt="vscode logo"  /> My hobbies : </h3>
+<h3> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8f5d1caa-fb25-4b86-b0d5-ee030b9cab1d" width="28" height="28" alt="vscode logo"  /> &nbsp; My hobbies : </h3>
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="Musical Notes" width="45" height="45" /> &nbsp;  
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" width="45" height="45" /> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/2b633c28-9b84-438f-9b70-5c4c01abff43" alt="Musical Notes" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8b202f8d-c36e-466c-ade6-85d42cce6ff7" alt="Musical Notes" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/d061c844-fd22-4353-81c4-74ce183b11a2" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/07be43eb-6346-4e81-ae38-80f6ba551e21" width="45" height="45" />  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/84956992-e381-4a4d-9ad4-feb37ded6281" width="45" height="40" />
 
