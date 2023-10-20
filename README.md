@@ -17,21 +17,27 @@
  
 <!--=================================== SOCIAL MEDIA ====================================-->
   <div align="center">
+    
   <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
     <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/53dee3b8-0ea1-4a05-a75f-5871d3fb01d4" width="51" height="51" alt="linkedin logo"  />
   </a> &nbsp;&nbsp;
-    <a href="https://t.me/ShahramDev" target="_blank">
+  
+  <a href="https://t.me/ShahramDev" target="_blank">
     <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/e41197ec-b272-4c36-b72c-539b93ef7f00" height="41" alt="telegram logo"  />
   </a> &nbsp;&nbsp;
+  
   <a href="https://wa.me/message/LM2IMM3ABZ7ZM1" target="_blank">
     <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/1c328cd3-54f5-49a7-94bf-ca473d0ebaca" width="50" height="50" alt="whatsapp logo"  />
   </a> &nbsp;&nbsp;
+  
   <a href="https://instagram.com/shahram.shakibaa?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
     <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/078c4af8-b02e-448f-bd50-778364597cbb" width="50" height="50" alt="instagram logo"  />
   </a> &nbsp;
+  
   <a href="https://twitter.com/DevZEEMO" target="_blank">
     <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/a39b6996-db3d-49d4-92a2-677e43cbb0dc" width="50" height="50" alt="twitter logo"  />
   </a> &nbsp;
+  
   <a href="ShahramShakiba88@gmail.com" target="_blank">
     <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/48119dd2-1ee4-4326-93f8-2077735a6a30" width="50" height="50" alt="gmail logo"  />
   </a>
