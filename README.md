@@ -37,10 +37,7 @@
   <a href="https://twitter.com/DevZEEMO" target="_blank">
     <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/a39b6996-db3d-49d4-92a2-677e43cbb0dc" width="50" height="50" alt="twitter logo"  />
   </a> 
-  
-  <a href="ShahramShakiba88@gmail.com" target="_blank">
-    <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/48119dd2-1ee4-4326-93f8-2077735a6a30" width="50" height="50" alt="gmail logo"  />
-  </a>
+ 
 </div>
 
   
