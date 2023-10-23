@@ -19,7 +19,7 @@
 <!--=================================== SOCIAL MEDIA ====================================-->
   <div align="center">
     
-  <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
+  <a href="https://www.linkedin.com/in/shahramshakiba" target="_blank">
     <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/53dee3b8-0ea1-4a05-a75f-5871d3fb01d4" width="51" height="51" alt="linkedin logo"  />
   </a> &nbsp;
   
