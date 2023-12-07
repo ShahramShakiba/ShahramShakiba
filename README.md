@@ -96,7 +96,7 @@
 
 
 <!--=================================== My Hobbies ====================================-->
-<h3> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8f5d1caa-fb25-4b86-b0d5-ee030b9cab1d" width="28" height="28" alt="vscode logo"  /> &nbsp; My hobbies : </h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="35"  /> &nbsp; My hobbies : </h3>
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="Musical Notes" width="45" height="45" /> &nbsp;  
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" width="45" height="45" /> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/2b633c28-9b84-438f-9b70-5c4c01abff43" alt="Musical Notes" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8b202f8d-c36e-466c-ade6-85d42cce6ff7" alt="Musical Notes" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/d061c844-fd22-4353-81c4-74ce183b11a2" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/07be43eb-6346-4e81-ae38-80f6ba551e21" width="45" height="45" />  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/84956992-e381-4a4d-9ad4-feb37ded6281" width="45" height="40" />
 
@@ -105,7 +105,7 @@
 
 
 <!--=================================== MY STATS ===================================-->
-<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/cac7d15f-b25e-42d6-9a0b-b189e55702be" height="40" alt="fire"  /> &nbsp; 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔 </h2>
+<h2>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="45" /> &nbsp; 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔 </h2>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250)](https://git.io/streak-stats) &nbsp; &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&layout=compact&theme=vision-friendly-dark) <br/>
 
@@ -116,7 +116,7 @@
 <!--============================== MY VISITORS ==============================-->
 <div id="header" align="center" >
   
-### 𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 :
+###  𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="20" /> 
 <div align="center">
   <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="50px" width="50px"> &nbsp;&nbsp;&nbsp;
   <img src="https://profile-counter.glitch.me/ShahramShakiba/count.svg?"  />
@@ -143,8 +143,11 @@ line :
 
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/54c5f8cd-d8f2-4fb6-a726-0049527a6d37)
 
+calender: 
+<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8f5d1caa-fb25-4b86-b0d5-ee030b9cab1d" width="28" height="28" alt="vscode logo"  /> 
 
-
+fire:
+<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/cac7d15f-b25e-42d6-9a0b-b189e55702be" height="40" alt="fire"  />
 
 ### My hobbies : 
 
