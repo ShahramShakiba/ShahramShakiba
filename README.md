@@ -10,7 +10,7 @@
 </div>
 <div align='center'> 
   <h3>
-   𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆 <img src='https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035' width="25"/>
+   𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
  𝑰'𝒎 𝑺𝒉𝒂𝒉𝒓𝒂𝒎
   </h3>
 </div> <br>
@@ -107,11 +107,18 @@
 <!--=================================== MY STATS ===================================-->
 <h2>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="45" /> &nbsp; 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔 </h2>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250)](https://git.io/streak-stats) &nbsp; &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&layout=compact&theme=vision-friendly-dark) <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&langs_count=8&theme=onedark" alt=ShahramShakiba /> <br/>
 
+<div align="left">
+<a href="https://github.com/ShahramShakiba">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahramShakiba&theme=onedark" height="180em" /> <br/><br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahramShakiba&theme=onedark" height="180em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahramShakiba&theme=onedark" height="180em" />
+</div>
+  
 
-![GitHub metrics](https://metrics.lecoq.io/ShahramShakiba)  
-
+<!--============================== ⚡Activity Graph ==============================--> 
+<h2 align="left">⚡Activity Graph </h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&theme=one-dark"/>
 
 <!--============================== MY VISITORS ==============================-->
 <div id="header" align="center" >
@@ -123,8 +130,10 @@
 </div>
  <br/><br/>
 
-  ![dino](https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/efb3168b-6da5-4ee0-a8af-de8106046d9d)
+<!--============================== DINO ==============================--> 
+<hr>
 
+![dino](https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/efb3168b-6da5-4ee0-a8af-de8106046d9d) 
 
   
 </div>
@@ -151,11 +160,69 @@ fire:
 
 ### My hobbies : 
 
-
+<img src='https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035' width="25"/>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
+
+stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&layout=compact&theme=vision-friendly-dark)
+
+metrics:
+![GitHub metrics](https://metrics.lecoq.io/ShahramShakiba)  
+
+line brake :
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Shahram</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahramShakiba&label=Profile%20views&color=0e75b6&style=flat" alt="ShahramShakiba" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahramShakiba&theme=onedark" alt="ShahramShakiba" /></a> </p>
+
+
+++++++++++++++
+- 👨‍💻 All of my projects are available at **https://github.com/ShahramShakiba**
+
+<div> <a href="https://github.com/ShahramShakiba" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&langs_count=8&theme=onedark" alt=ShahramShakiba />
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahramShakiba&theme=onedark-duo" alt="ShahramShakiba" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/ShahramShakiba">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahramShakiba&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahramShakiba&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahramShakiba&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahramShakiba&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahramShakiba&theme=onedark" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&theme=one-dark"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 -->
 
 
