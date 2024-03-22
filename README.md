@@ -40,17 +40,12 @@
   
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> About me </h1> 
-<img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="20px" width="20px"> &nbsp; I am genuinely proud of my unwavering commitment, natural adaptability, knack for innovation and infectious enthusiasm when it comes to crafting responsive and user-friendly web interfaces. <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="18" height="18" /> In my approach, whenever I engage in a task, I strive to achieve the utmost excellence and attain the finest outcome possible.
+> ### Crafting web interfaces that are both _Responsive_ and _User-friendly_ brings me great satisfaction. <br/><br/> I take pride in the fact that these interfaces enhance user experiences and simplify complex interactions, ultimately creating a more engaging Online Environment for _all users_. <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> As a developer, I actively pursue avenues to broaden my expertise and stay updated with the latest industry trends and emerging technologies, ensuring that I remain at the forefront of my field.
+- #### In my role _` as a Developer `_, I am proactive in my pursuit of knowledge, constantly seeking ways to broaden my expertise <br/> and stay up-to-date with the latest industry trends and emerging technologies <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" > 
 
-☄️ As an individual with exceptional communication skills and technical proficiency, I am committed to develop strong relationships with my team and clients <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  /> <br/> 
-
-💡 I am excited about the prospect of expanding my knowledge and refining my skills in the captivating fields of Mobile Application Development and Cyber-Security in the future. 🔮🔒. <br/>
-
-
+- #### _` As an individual `_, I prioritize effective communication and possess a solid technical background. <br/> My commitment lies in developing strong relationships with my team members and clients <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  /> <br/> <br/>
 
 <!--=================================== MY SKILLS ===================================-->
 <h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I code with:  </h2> 
@@ -94,41 +89,38 @@
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
  <br/><br/><br/>
 
-
 <!--=================================== My Hobbies ====================================-->
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="35"  /> &nbsp; My hobbies : </h3>
-<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="Musical Notes" width="45" height="45" /> &nbsp;  
-<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" width="45" height="45" /> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/2b633c28-9b84-438f-9b70-5c4c01abff43" alt="Musical Notes" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8b202f8d-c36e-466c-ade6-85d42cce6ff7" alt="Musical Notes" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/d061c844-fd22-4353-81c4-74ce183b11a2" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/07be43eb-6346-4e81-ae38-80f6ba551e21" width="45" height="45" />  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/84956992-e381-4a4d-9ad4-feb37ded6281" width="45" height="40" />
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="35"  /> &nbsp; Hobbies & Spare Time : </h3>
+<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="GYM" width="45" height="45" /> &nbsp;  
+<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" alt="Camping" width="45" height="45" /> &nbsp; <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/4e2e25d7-fe5c-4c89-a0cd-7c666af89932" alt="Reading Books" width="45" /> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="40" height="40" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/2b633c28-9b84-438f-9b70-5c4c01abff43" alt="Running" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8b202f8d-c36e-466c-ade6-85d42cce6ff7" alt="Swimming" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/d061c844-fd22-4353-81c4-74ce183b11a2" alt="Cycling" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/07be43eb-6346-4e81-ae38-80f6ba551e21" alt="Play Games" width="45" height="45" />  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/84956992-e381-4a4d-9ad4-feb37ded6281" alt="Watching Movies" width="50" /> 
 
 <br/>
 <br/><br/>
 
-
 <!--=================================== MY STATS ===================================-->
-<h2>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="45" /> &nbsp; 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔 </h2>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&langs_count=8&theme=onedark" alt=ShahramShakiba /> <br/>
-
-<div align="left">
+<h2>  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > &nbsp; 𝑺𝒕𝒂𝒕𝒊𝒄𝒔 </h2>
+<div align="center">
 <a href="https://github.com/ShahramShakiba">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahramShakiba&theme=onedark" height="180em" /> <br/><br/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahramShakiba&theme=onedark" height="180em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahramShakiba&theme=onedark" height="180em" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250" height="180em" /> <br/><br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahramShakiba&theme=onedark" height="180em" />&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&langs_count=8&theme=onedark" alt=ShahramShakiba /> 
 </div>
   
-
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.webp" type="image/webp">
+  
+</picture>
 <!--============================== ⚡Activity Graph ==============================--> 
-<h2 align="left">⚡Activity Graph </h2>
+<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="60" > &nbsp; Activity Graph </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&theme=one-dark"/>
 
+<br/>
+<br/>
 <!--============================== MY VISITORS ==============================-->
 <div id="header" align="center" >
-  
-###  𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="20" /> 
-<div align="center">
-  <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="50px" width="50px"> &nbsp;&nbsp;&nbsp;
-  <img src="https://profile-counter.glitch.me/ShahramShakiba/count.svg?"  />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahramShakiba&theme=onedark" alt="ShahramShakiba" /></a> </p>
 </div>
- <br/><br/>
+
 
 <!--============================== DINO ==============================--> 
 <hr>
@@ -175,9 +167,22 @@ metrics:
 line brake :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+eyes:
+<img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="20px" width="20px">
 
+calender: 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="35"  />
 
+statics:
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="45" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250)](https://git.io/streak-stats)
 
+###  𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="20" /> 
+<div align="center">
+  <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="50px" width="50px"> &nbsp;&nbsp;&nbsp;
+  <img src="https://profile-counter.glitch.me/ShahramShakiba/count.svg?"  />
+
+  
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
@@ -218,9 +223,12 @@ line brake :
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahramShakiba&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahramShakiba&theme=onedark" height="180em" />
 </div>
+
+// activity
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&theme=one-dark"/>
 
+// wave
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 -->
