@@ -106,19 +106,15 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahramShakiba&theme=onedark" height="180em" />&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&langs_count=8&theme=onedark" alt=ShahramShakiba /> 
 </div>
   
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.webp" type="image/webp">
-  
-</picture>
-<!--============================== ⚡Activity Graph ==============================--> 
+<!--============================== Activity Graph ==============================--> 
 <h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="60" > &nbsp; Activity Graph </h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&theme=one-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&theme=one-dark" alt="ShahramShakiba Activities"/>
 
 <br/>
 <br/>
-<!--============================== MY VISITORS ==============================-->
+<!--============================== MY Trophy ==============================-->
 <div id="header" align="center" >
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahramShakiba&theme=onedark" alt="ShahramShakiba" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahramShakiba&theme=onedark" alt="ShahramShakiba Trophies" /></a> </p>
 </div>
 
 
