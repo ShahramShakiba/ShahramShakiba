@@ -66,6 +66,8 @@
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have basic Knowledge :  </h3>
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/framer-icon.svg" height="40" alt="Fremer logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
@@ -95,7 +97,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
   <img width="12" />
- 
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" height="40" alt="Vercel logo"  />
+  <img width="8" />
+
 
  <br/><br/><br/>
 
@@ -254,6 +258,7 @@ statics:
 // wave
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 -->
 
 
