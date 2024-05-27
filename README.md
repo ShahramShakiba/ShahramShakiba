@@ -62,11 +62,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 <br/>
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have basic Knowledge :  </h3>
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> &nbsp;
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/framer-icon.svg" height="40" alt="Fremer logo"  />
 <!--   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> -->
