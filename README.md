@@ -37,15 +37,17 @@
 
 </div>
 
-  
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> About me </h1> 
 
-> ### Crafting web interfaces that are both _Responsive_ and _User-friendly_ brings me great satisfaction. <br/><br/> I take pride in the fact that these interfaces enhance user experiences and simplify complex interactions, ultimately creating a more engaging Online Environment for _all users_. <br/>
+> ### _Designing web interfaces that are not only responsive and user-friendly but also prioritize enhancing user experiences and simplifying complex interactions brings me immense joy and pride. These interfaces play a crucial role in creating a more engaging online environment for all users, making their interactions seamless and enjoyable._ <br/>
 
-- #### In my role _` as a Developer `_, I am proactive in my pursuit of knowledge, constantly seeking ways to broaden my expertise <br/> and stay up-to-date with the latest industry trends and emerging technologies <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" > 
+- #### _In my capacity as a ` Developer `, I consistently demonstrate proactive leadership in my quest for knowledge, actively seeking opportunities to expand my skill set and remain at the cutting edge of industry developments and emerging technologies._ <br/> _My commitment to continuous learning enhances my ability to deliver innovative solutions and drive business success._ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" > 
 
-- #### _` As an individual `_, I prioritize effective communication and possess a solid technical background. <br/> My commitment lies in developing strong relationships with my team members and clients <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  /> <br/> <br/>
+- #### _As an ` individual `, I place a high value on clear and impactful communication while leveraging my robust technical expertise._ <br/> _I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence._ <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  /> <br/> 
+
+<!--=================================== My Resume ====================================-->
+_<h4> 🧷 My Resume : <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473422/ShahramShakibaResume-01.pdf" target="_blank"> &nbsp; Shahram Shakiba </a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" height="30" /> </h4>_  <br/>
 
 <!--=================================== MY SKILLS ===================================-->
 <h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I code with :  </h2> 
