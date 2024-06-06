@@ -44,7 +44,9 @@ _My expertise in leveraging frameworks like ` React.js `, ` Next.js `, ` Tailwin
 
 > _As a developer, I am dedicated to pursue knowledge, keeping abreast of industry trends to offer inventive solutions and contribute to business success through ongoing learning._ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" > 
 
-> _As an individual, I place a high value on clear and impactful communication while leveraging my robust technical expertise._ <br/> _I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence._ <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  /> <br/> 
+> _As an individual, I place a high value on clear and impactful communication while leveraging my robust technical expertise._ <br/> _I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence._ <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
+
+_<h4>🧩 My motto is: the tougher the challenge in learning, the more valuable the knowledge gained.</h4>_ 
 
 <!--=================================== My Resume ====================================-->
 _<h4> 🧷 <a href="https://shahramshakiba.vercel.app/" target="_blank"> &nbsp; My 3D Portfolio  </a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" height="30" /> </h4>_ 
