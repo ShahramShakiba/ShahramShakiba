@@ -40,9 +40,7 @@
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> About me </h1> 
 
-_My expertise in leveraging frameworks like ` React.js `, ` Next.js `, ` Tailwind CSS ` and ` Three.js ` empowers me to develop dynamic, user-centric web applications that substantially maximize user engagement and elevate functionality to new heights._ <br/><br/>
-
-> _As a developer, I am dedicated to pursue knowledge, keeping abreast of industry trends to offer inventive solutions and contribute to business success through ongoing learning._ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" > 
+_My curious mind in leveraging frameworks like ` React.js `, ` Next.js `, ` Tailwind CSS `, ` Three.js `, and ` GSAP Animations ` empowers me to create captivating and interactive web applications that greatly enhance user engagement, leaving them impressed and eager to explore further._ <br/><br/> By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" >  <br/><br/>
 
 > _As an individual, I place a high value on clear and impactful communication while leveraging my robust technical expertise._ <br/> _I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence._ <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
 
@@ -68,12 +66,14 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img width="8" />
+  <img src="https://github.com/ShahramShakiba/GSAP-Crash-Course/assets/110089830/951ee96c-0849-4c2a-bcd1-4f108fe53d5a" height="40" alt="gsap logo"  />
 <br/>
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have basic Knowledge :  </h3>
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> &nbsp;
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/framer-icon.svg" height="40" alt="Fremer logo"  />
-  <img src="https://github.com/ShahramShakiba/GSAP-Crash-Course/assets/110089830/951ee96c-0849-4c2a-bcd1-4f108fe53d5a" height="35" alt="gsap logo"  />
+  
 <!--   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> -->
 
