@@ -40,14 +40,14 @@
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> About me </h1> 
 
-_My curious mind in leveraging frameworks like ` Three.js `, ` React.js `, ` Next.js `, ` Tailwind CSS `  and ` GSAP Animations ` empowers me to create captivating and interactive web applications that greatly enhance user engagement, leaving them impressed and eager to explore further._ <br/><br/> By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" >  <br/><br/>
+_My curious mind in leveraging frameworks like ` Three.js `, ` GSAP Animations `, React.js, Next.js, Tailwind CSS and  empowers me to create captivating and interactive web applications that greatly enhance user engagement, leaving them impressed and eager to explore further._ <br/><br/> By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" >  <br/><br/>
 
-> _As an individual, I place a high value on clear and impactful communication while leveraging my robust technical expertise._ <br/> _I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence._ <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
+> _I place a high value on clear and impactful communication while leveraging my robust technical expertise._ <br/> _I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence._ <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
 
 _<h4>🧩 My motto is: the tougher the challenge in learning, the more valuable the knowledge gained.</h4>_ 
 
 <!--=================================== My Resume ====================================-->
-_<h4> 🧷 <a href="https://shahramshakiba.vercel.app/" target="_blank"> &nbsp; My 3D Portfolio  </a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" height="30" /> </h4>_ 
+_<h4> 🧷 <a href="https://shahram-shakiba.vercel.app/" target="_blank"> &nbsp; My 3D Portfolio  </a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" height="30" /> </h4>_ 
 _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473422/ShahramShakibaResume-01.pdf" target="_blank"> &nbsp; My Resume </a> </h4>_ <br/>
 
 <!--=================================== MY SKILLS ===================================-->
