@@ -51,7 +51,7 @@ _<h4> 🧷 <a href="https://shahram-shakiba.vercel.app/" target="_blank"> &nbsp;
 _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473422/ShahramShakibaResume-01.pdf" target="_blank"> &nbsp; My Resume </a> </h4>_ <br/>
 
 <!--=================================== MY SKILLS ===================================-->
-<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I code with :  </h2> 
+<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I code with   </h2> 
 
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -62,6 +62,8 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
@@ -80,8 +82,6 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
 <br/>
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have experience using tools such as :  </h3>
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/1921f9b9-413f-4e62-b1ce-b49c99cb6639" height="40" alt="react router logo"  />
@@ -109,6 +109,54 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" height="40" alt="Vercel logo"  />
   <img width="8" />
 
+<br/><br/>
+
+<!--=================================== Projects ====================================-->
+<h2> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="32" height="32">
+</picture> &nbsp;
+My Latest Projeccts </h2>
+<table>
+  <tr>
+    <!--======= Portfolio -->
+    <td style="vertical-align: top; width: 50%;">
+      <h3> 
+        Portfolio | &nbsp; Jun 24, 2024 <br/>
+        <a href="https://github.com/ShahramShakiba/ScrollBased-Animation-p08" target="_blank">
+          Codebase
+        </a> &nbsp;&nbsp;
+        <a href="https://shahram-shakiba.vercel.app/" target="_blank">
+          Live
+        </a> 
+        <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="22" height="22">
+        </picture> 
+      </h3>
+      <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6af094be-3ebe-4895-971a-4fac544e0eec" alt="Portfolio" width="500">  
+   </td>
+    
+ <!--======= Haunted House -->
+  <td style="vertical-align: top; width: 50%;">
+      <h3> 
+        Haunted House | &nbsp; Jun 12, 2024 <br/>
+        <a href="https://github.com/ShahramShakiba/HauntedHouse-p05" target="_blank">
+          Codebase
+        </a> &nbsp;&nbsp;
+        <a href="https://haunted-house-shahram.vercel.app/" target="_blank">
+          Live
+        </a> 
+        <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="22" height="22">
+        </picture> 
+      </h3>
+      <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/c02c5e9f-f5cf-43e6-bd6c-9cb483247cab" alt="Haunted-House" width="500">
+    </td>
+  </tr>
+</table>
+
 
  <br/><br/><br/>
 
@@ -120,7 +168,10 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
 <br/><br/>
 
 <!--=================================== MY STATS ===================================-->
-<h2>  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > &nbsp; 𝑺𝒕𝒂𝒕𝒊𝒄𝒔 </h2>
+<h2>  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b3/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b3/512.gif" alt="🎳" width="32" height="32">
+</picture> &nbsp; 𝑺𝒕𝒂𝒕𝒊𝒄𝒔 </h2>
 <div align="center">
 <a href="https://github.com/ShahramShakiba">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahramShakiba&theme=onedark" height="180em" /> <br/><br/>
