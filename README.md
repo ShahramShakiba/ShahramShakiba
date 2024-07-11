@@ -1,5 +1,4 @@
 
-https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/a78acc3b-d2f7-4430-971e-64be1fd23130
 <meta http-equiv='cache-control' content='no-cache'> 
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
