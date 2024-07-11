@@ -1,3 +1,5 @@
+
+https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/a78acc3b-d2f7-4430-971e-64be1fd23130
 <meta http-equiv='cache-control' content='no-cache'> 
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
@@ -38,7 +40,7 @@
 </div>
 
 <!--=================================== ABOUT ME ====================================-->
-<h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> About me </h1> 
+<h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
 
 _My curious mind in leveraging frameworks like ` Three.js `, ` GSAP Animations `, React.js, Next.js, Tailwind CSS and  empowers me to create captivating and interactive web applications that greatly enhance user engagement, leaving them impressed and eager to explore further._ <br/><br/> By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" >  <br/><br/>
 
@@ -47,11 +49,11 @@ _My curious mind in leveraging frameworks like ` Three.js `, ` GSAP Animations `
 _<h4>🧩 My motto is: the tougher the challenge in learning, the more valuable the knowledge gained.</h4>_ 
 
 <!--=================================== My Resume ====================================-->
-_<h4> 🧷 <a href="https://shahram-shakiba.vercel.app/" target="_blank"> &nbsp; My 3D Portfolio  </a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" height="30" /> </h4>_ 
+_<h4> 🧷 <a href="https://shahram-shakiba.vercel.app/" target="_blank"> &nbsp; My Portfolio  </a> </h4>_ 
 _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473422/ShahramShakibaResume-01.pdf" target="_blank"> &nbsp; My Resume </a> </h4>_ <br/>
 
 <!--=================================== MY SKILLS ===================================-->
-<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I code with   </h2> 
+<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I program with  </h2> 
 
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -66,13 +68,13 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
   <img width="8" />
   <img src="https://github.com/ShahramShakiba/GSAP-Crash-Course/assets/110089830/951ee96c-0849-4c2a-bcd1-4f108fe53d5a" height="40" alt="gsap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 <br/>
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have basic Knowledge :  </h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Fundamental grasp of  </h3>
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> &nbsp;
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/framer-icon.svg" height="40" alt="Fremer logo"  />
   
@@ -81,13 +83,17 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
 
 <br/>
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have experience using tools such as :  </h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Experienced in leveraging  </h3>
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/1921f9b9-413f-4e62-b1ce-b49c99cb6639" height="40" alt="react router logo"  />
   <img width="12" />
+  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/0f6fe9f4-6af8-40e0-8c76-e04e13441269" height="40" alt="OOP logo"  />
+    <img width="12" />
 
   <br/>
+
+
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -116,13 +122,33 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="32" height="32">
 </picture> &nbsp;
-My Latest Projeccts </h2>
+Recent developments </h2>
 <table>
   <tr>
-    <!--======= Portfolio -->
-    <td style="vertical-align: top; width: 50%;">
-      <h3> 
-        Portfolio | &nbsp; Jun 24, 2024 <br/>
+     <!--======= WebGL Fox -->
+  <td style="vertical-align: top; width: 50%;">
+      <h4> 
+        WebGLFox | Object-Oriented Programming <br/>
+        <a href="https://github.com/ShahramShakiba/WebGLFox-p15" target="_blank">
+          Codebase
+        </a> &nbsp;&nbsp;
+        <a href="https://webgl-fox-shahram.netlify.app/" target="_blank">
+          Live
+        </a> 
+        <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="22" height="22">
+        </picture> 
+      </h4>
+
+https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/85eb6915-52ae-4d28-8d25-14e1f03486d1
+
+  </td>
+    
+  <!--======= Portfolio -->
+  <td style="vertical-align: top; width: 50%;">
+      <h4> 
+        Portfolio | Scroll-Based Animation <br/>
         <a href="https://github.com/ShahramShakiba/ScrollBased-Animation-p08" target="_blank">
           Codebase
         </a> &nbsp;&nbsp;
@@ -133,14 +159,15 @@ My Latest Projeccts </h2>
           <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
           <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="22" height="22">
         </picture> 
-      </h3>
-      <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6af094be-3ebe-4895-971a-4fac544e0eec" alt="Portfolio" width="500">  
+      </h4>
+
+https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6ff82b20-2d18-40c6-b4bd-bd3d84bd0cf0
+
    </td>
     
  <!--======= Haunted House -->
   <td style="vertical-align: top; width: 50%;">
-      <h3> 
-        Haunted House | &nbsp; Jun 12, 2024 <br/>
+      <h4> Haunted House | Primitive Objects <br/>
         <a href="https://github.com/ShahramShakiba/HauntedHouse-p05" target="_blank">
           Codebase
         </a> &nbsp;&nbsp;
@@ -151,14 +178,16 @@ My Latest Projeccts </h2>
           <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
           <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="22" height="22">
         </picture> 
-      </h3>
-      <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/c02c5e9f-f5cf-43e6-bd6c-9cb483247cab" alt="Haunted-House" width="500">
-    </td>
+      </h4>
+
+https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-460e-9609-0da8b24e1a84
+
+   </td>
   </tr>
 </table>
 
 
- <br/><br/><br/>
+ <br/>
 
 <!--=================================== My Hobbies ====================================-->
 <!-- <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="35"  /> &nbsp; Hobbies & Spare Time : </h3>
@@ -168,10 +197,8 @@ My Latest Projeccts </h2>
 <br/><br/>
 
 <!--=================================== MY STATS ===================================-->
-<h2>  <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b3/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b3/512.gif" alt="🎳" width="32" height="32">
-</picture> &nbsp; 𝑺𝒕𝒂𝒕𝒊𝒄𝒔 </h2>
+<h2> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="50" height="50" />  &nbsp; Activity Data  </h2>
 <div align="center">
 <a href="https://github.com/ShahramShakiba">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahramShakiba&theme=onedark" height="180em" /> <br/><br/>
