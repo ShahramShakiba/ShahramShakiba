@@ -134,10 +134,6 @@ Recent developments </h2>
         <a href="https://webgl-fox-shahram.netlify.app/" target="_blank">
           Live
         </a> 
-        <picture>
-          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
-          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="22" height="22">
-        </picture> 
       </h4>
 
 https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/85eb6915-52ae-4d28-8d25-14e1f03486d1
@@ -154,10 +150,6 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/85eb6915-52ae-
         <a href="https://shahram-shakiba.vercel.app/" target="_blank">
           Live
         </a> 
-        <picture>
-          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
-          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="22" height="22">
-        </picture> 
       </h4>
 
 https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6ff82b20-2d18-40c6-b4bd-bd3d84bd0cf0
@@ -173,10 +165,6 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6ff82b20-2d18-
         <a href="https://haunted-house-shahram.vercel.app/" target="_blank">
           Live
         </a> 
-        <picture>
-          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
-          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="22" height="22">
-        </picture> 
       </h4>
 
 https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-460e-9609-0da8b24e1a84
