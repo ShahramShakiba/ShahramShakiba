@@ -1,8 +1,18 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Shahram Shakiba's GitHub profile. Web Developer skilled in Three.js, WebGL, GLSL, GSAP, React.js, Next.js, Tailwind CSS, JavaScript, HTML, CSS and Blender.">
+<meta name="author" content="Shahram Shakiba">
+<meta name="keywords" content="Shahram Shakiba, Web Developer, Three.js, WebGL, GLSL, GSAP, React, Next, Tailwindcss, JavaScript, CSS, HTML, Blender, 3D, Shader">
 
 <meta http-equiv='cache-control' content='no-cache'> 
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
+<meta property="og:title" content="Shahram Shakiba's GitHub Profile">
+<meta property="og:description" content=" Web Developer skilled in Three.js, WebGL, GLSL, GSAP, React.js, Next.js, Tailwind CSS, JavaScript, HTML, CSS and Blender.">
+<meta property="og:image" content="https://github.com/user-attachments/assets/f66bb321-601e-4483-a70e-e941c7c42581">
+<meta property="og:url" content="https://github.com/ShahramShakiba">
+<meta property="og:type" content="website">
 
 <!--============================== WELCOME IMAGE ==============================-->
 <div align='left'>
@@ -14,34 +24,13 @@
    𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
  𝑰'𝒎 𝑺𝒉𝒂𝒉𝒓𝒂𝒎
   </h3>
-</div> <br>
-
-
-<!--=================================== SOCIAL MEDIA ====================================-->
-  <div align="center">
-    
- <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/ShahramShakibaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/message/LM2IMM3ABZ7ZM1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://instagram.com/shahram.shakibaa?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/ShahramShakibaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-
-</div>
+</div> 
+<br>
 
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
 
-_My curious mind in leveraging frameworks like ` Three.js `, ` GSAP Animations `, React.js, Next.js, Tailwind CSS and  empowers me to create captivating and interactive web applications that greatly enhance user engagement, leaving them impressed and eager to explore further._ <br/><br/> By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" >  <br/><br/>
+_My curious mind in leveraging frameworks like ` Three.js `, ` WebGL `, ` GLSL `, ` GSAP Animations `, React.js, Next.js, Tailwind CSS and  empowers me to create captivating and interactive web applications that greatly enhance user engagement, leaving them impressed and eager to explore further._ <br/><br/> By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" >  <br/><br/>
 
 > _I place a high value on clear and impactful communication while leveraging my robust technical expertise._ <br/> _I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence._ <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
 
@@ -181,6 +170,7 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="GYM" width="45" height="45" /> &nbsp;  
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" alt="Camping" width="45" height="45" /> &nbsp; <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/4e2e25d7-fe5c-4c89-a0cd-7c666af89932" alt="Reading Books" width="45" /> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="40" height="40" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/2b633c28-9b84-438f-9b70-5c4c01abff43" alt="Running" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8b202f8d-c36e-466c-ade6-85d42cce6ff7" alt="Swimming" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/d061c844-fd22-4353-81c4-74ce183b11a2" alt="Cycling" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/07be43eb-6346-4e81-ae38-80f6ba551e21" alt="Play Games" width="45" height="45" />  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/84956992-e381-4a4d-9ad4-feb37ded6281" alt="Watching Movies" width="50" /> -->
 
+
 <br/><br/>
 
 <!--=================================== MY STATS ===================================-->
@@ -211,7 +201,30 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-
 
 ![dino](https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/efb3168b-6da5-4ee0-a8af-de8106046d9d) 
 
-  
+
+<hr>
+
+<br/>
+
+<!--=================================== SOCIAL MEDIA ====================================-->
+> ## _Feel free to reach out to me for collaboration or inquiries_ :
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a> &nbsp;  &nbsp;&nbsp;
+  <a href="https://t.me/ShahramShakibaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
+  </a> &nbsp; &nbsp;&nbsp;
+  <a href="https://wa.me/message/LM2IMM3ABZ7ZM1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
+  </a> &nbsp; &nbsp;&nbsp;
+  <a href="https://instagram.com/shahram.shakibaa?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  </a> &nbsp; &nbsp;&nbsp;
+  <a href="https://twitter.com/ShahramShakibaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
+  </a>
+</p>
 </div>
 
 
