@@ -76,13 +76,14 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="8" />
-  <img src="https://github.com/ShahramShakiba/GSAP-Crash-Course/assets/110089830/951ee96c-0849-4c2a-bcd1-4f108fe53d5a" height="40" alt="gsap logo"  />
-  <img width="12" />
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/0b984ea1-5915-43d6-b885-f4871eacea35" height="40" alt="WebGL logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/bc3bcd8b-534c-4333-97ff-13c568f1b3ce" height="40" alt="GLSL logo"  />
+  <img src="https://github.com/ShahramShakiba/GSAP-Crash-Course/assets/110089830/951ee96c-0849-4c2a-bcd1-4f108fe53d5a" height="40" alt="gsap logo"  />
+  <img width="12" />
 
 <br/>
 
@@ -102,7 +103,7 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/1921f9b9-413f-4e62-b1ce-b49c99cb6639" height="40" alt="react router logo"  />
   <img width="12" />
   <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/0f6fe9f4-6af8-40e0-8c76-e04e13441269" height="40" alt="OOP logo"  />
-    <img width="12" />
+  <img width="14" />
 
   <br/>
 
@@ -119,14 +120,15 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
   <img width="12" />
+  <br/>
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" height="40" alt="Vercel logo"  />
-  <img width="8" />
+  <img width="12" />
 
 <br/><br/>
 
@@ -211,7 +213,7 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-
 </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&radius=16&theme=react&area=true&order=5&hide_border=true&title_color=77d3ee" alt="ShahramShakiba Activities"/>
 
-<br/><br/>
+<br/>
 
 <!--============================== MY Trophy ==============================-->
 
