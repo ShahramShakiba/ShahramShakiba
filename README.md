@@ -22,15 +22,34 @@
 <div align='center'> 
   <h3>
    𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
- 𝑰'𝒎 𝑺𝒉𝒂𝒉𝒓𝒂𝒎
+ 𝑰 a𝒎 𝑺𝒉𝒂𝒉𝒓𝒂𝒎
   </h3>
 </div> 
 <br>
 
+<!--=================================== SOCIAL MEDIA ====================================-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a> &nbsp;  &nbsp;&nbsp;
+  
+  <a href="https://wa.me/message/LM2IMM3ABZ7ZM1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
+  </a> &nbsp; &nbsp;&nbsp;
+  
+  <a href="https://t.me/ShahramShakibaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
+  </a> &nbsp; &nbsp;&nbsp;
+  
+  <a href="https://twitter.com/ShahramShakibaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
+  </a>
+</p>
+
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
 
-_My curious mind in leveraging frameworks like ` Three.js `, ` WebGL `, ` GLSL `, ` GSAP Animations `, React.js, Next.js, Tailwind CSS and  empowers me to create captivating and interactive web applications that greatly enhance user engagement, leaving them impressed and eager to explore further._ <br/><br/> By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="18" >  <br/><br/>
+As a visionary 3D Frontend Developer, my curious mind leverages frameworks like `  Three.js  `, `  WebGL  `, `  GLSL(OpenGL Shading Language)  `, `  GSAP Animations  `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.  <br/><br/>
 
 > _I place a high value on clear and impactful communication while leveraging my robust technical expertise._ <br/> _I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence._ <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
 
@@ -60,7 +79,13 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <img src="https://github.com/ShahramShakiba/GSAP-Crash-Course/assets/110089830/951ee96c-0849-4c2a-bcd1-4f108fe53d5a" height="40" alt="gsap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/0b984ea1-5915-43d6-b885-f4871eacea35" height="40" alt="WebGL logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/bc3bcd8b-534c-4333-97ff-13c568f1b3ce" height="40" alt="GLSL logo"  />
+
 <br/>
+
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Fundamental grasp of  </h3>
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> &nbsp;
@@ -162,16 +187,13 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-
   </tr>
 </table>
 
-
- <br/>
-
 <!--=================================== My Hobbies ====================================-->
 <!-- <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="35"  /> &nbsp; Hobbies & Spare Time : </h3>
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="GYM" width="45" height="45" /> &nbsp;  
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" alt="Camping" width="45" height="45" /> &nbsp; <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/4e2e25d7-fe5c-4c89-a0cd-7c666af89932" alt="Reading Books" width="45" /> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="40" height="40" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/2b633c28-9b84-438f-9b70-5c4c01abff43" alt="Running" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8b202f8d-c36e-466c-ade6-85d42cce6ff7" alt="Swimming" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/d061c844-fd22-4353-81c4-74ce183b11a2" alt="Cycling" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/07be43eb-6346-4e81-ae38-80f6ba551e21" alt="Play Games" width="45" height="45" />  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/84956992-e381-4a4d-9ad4-feb37ded6281" alt="Watching Movies" width="50" /> -->
 
 
-<br/><br/>
+<br/><br/><br/>
 
 <!--=================================== MY STATS ===================================-->
 <h2> 
@@ -184,15 +206,21 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-
 </div>
   
 <!--============================== Activity Graph ==============================--> 
-<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="60" > &nbsp; Activity Graph </h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&theme=one-dark" alt="ShahramShakiba Activities"/>
+<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="60" >
+  &nbsp; Activity Graph 
+</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahramShakiba&radius=16&theme=react&area=true&order=5&hide_border=true&title_color=77d3ee" alt="ShahramShakiba Activities"/>
 
-<br/>
-<br/>
+<br/><br/>
+
 <!--============================== MY Trophy ==============================-->
 
 <div id="header" align="center" >
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-troph"><img src="https://github-profile-trophy.vercel.app/?username=ShahramShakiba&theme=onedark" alt="ShahramShakiba Trophies" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-troph">
+    <img src="https://github-profile-trophy.vercel.app?username=ShahramShakiba&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  </a> 
+</p>
 </div>
 
 
@@ -203,32 +231,7 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-
 
 
 <hr>
-
 <br/>
-
-<!--=================================== SOCIAL MEDIA ====================================-->
-> ## _Feel free to reach out to me for collaboration or inquiries_ :
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a> &nbsp;  &nbsp;&nbsp;
-  <a href="https://t.me/ShahramShakibaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
-  </a> &nbsp; &nbsp;&nbsp;
-  <a href="https://wa.me/message/LM2IMM3ABZ7ZM1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
-  </a> &nbsp; &nbsp;&nbsp;
-  <a href="https://instagram.com/shahram.shakibaa?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-  </a> &nbsp; &nbsp;&nbsp;
-  <a href="https://twitter.com/ShahramShakibaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
-  </a>
-</p>
-</div>
-
-
-
 
 
 
