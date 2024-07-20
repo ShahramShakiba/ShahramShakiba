@@ -31,29 +31,34 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a> &nbsp;  &nbsp;&nbsp;
+  </a> &nbsp;  &nbsp;
+
+   <a href="https://twitter.com/ShahramShakibaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
+  </a> &nbsp; &nbsp;
   
   <a href="https://wa.me/message/LM2IMM3ABZ7ZM1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
-  </a> &nbsp; &nbsp;&nbsp;
+  </a> &nbsp; &nbsp;
   
   <a href="https://t.me/ShahramShakibaa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
-  </a> &nbsp; &nbsp;&nbsp;
-  
-  <a href="https://twitter.com/ShahramShakibaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
+  </a> &nbsp; &nbsp;
+
+  <a href="https://discordapp.com/shahram.shakiba/1250726034458808382" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </p>
 
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
 
-As a visionary 3D Frontend Developer, my curious mind leverages frameworks like `  Three.js  `, `  WebGL  `, `  GLSL(OpenGL Shading Language)  `, `  GSAP Animations  `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.  <br/><br/>
+As a visionary 3D Frontend Developer, my curious mind leverages frameworks like `  Three.js  `, `  WebGL  `, `  GLSL(OpenGL Shading Language)  `, `  GSAP Animations  `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.
+ <br/><br/>
 
-> _I place a high value on clear and impactful communication while leveraging my robust technical expertise._ <br/> _I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence._ <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
+> I place a high value on clear and impactful communication while leveraging my robust technical expertise. <br/> I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence. <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
 
-_<h4>🧩 My motto is: the tougher the challenge in learning, the more valuable the knowledge gained.</h4>_ 
+<h4>🧩 My motto is: the tougher the challenge in learning, the more valuable the knowledge gained.</h4> 
 
 <!--=================================== My Resume ====================================-->
 _<h4> 🧷 <a href="https://shahram-shakiba.vercel.app/" target="_blank"> &nbsp; My Portfolio  </a> </h4>_ 
@@ -77,13 +82,13 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="8" />
   <br/><br/>
+  <img src="https://github.com/ShahramShakiba/GSAP-Crash-Course/assets/110089830/951ee96c-0849-4c2a-bcd1-4f108fe53d5a" height="40" alt="gsap logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/0b984ea1-5915-43d6-b885-f4871eacea35" height="40" alt="WebGL logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/bc3bcd8b-534c-4333-97ff-13c568f1b3ce" height="40" alt="GLSL logo"  />
-  <img src="https://github.com/ShahramShakiba/GSAP-Crash-Course/assets/110089830/951ee96c-0849-4c2a-bcd1-4f108fe53d5a" height="40" alt="gsap logo"  />
-  <img width="12" />
 
 <br/>
 
@@ -219,9 +224,7 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-
 
 <div id="header" align="center" >
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-troph">
-    <img src="https://github-profile-trophy.vercel.app?username=ShahramShakiba&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  </a> 
+  <img src="https://github-profile-trophy.vercel.app?username=ShahramShakiba&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </p>
 </div>
 
@@ -234,8 +237,6 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-
 
 <hr>
 <br/>
-
-
 
 <!-- 
 ------badges-----
