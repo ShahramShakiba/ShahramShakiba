@@ -145,7 +145,22 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
 Recent developments </h2>
 <table>
   <tr>
-     <!--======= WebGL Fox -->
+  <!--======= Raging Sea -->
+  <td style="vertical-align: top; width: 50%;">
+      <h4> 
+        Raging Sea | Shaders & Particles <br/>
+        <a href="https://github.com/ShahramShakiba/Raging-Sea-p18" target="_blank">
+          Codebase
+        </a> &nbsp;&nbsp;
+        <a href="https://raging-sea-shahram.netlify.app/" target="_blank">
+          Live
+        </a> 
+      </h4>
+
+https://github.com/user-attachments/assets/f0911e3a-3844-41c5-8a38-8bee83f71c20
+  </td>
+  
+  <!--======= WebGL Fox -->
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         WebGLFox | Object-Oriented Programming <br/>
@@ -156,9 +171,8 @@ Recent developments </h2>
           Live
         </a> 
       </h4>
-
-https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/85eb6915-52ae-4d28-8d25-14e1f03486d1
-
+    
+  https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/85eb6915-52ae-4d28-8d25-14e1f03486d1
   </td>
     
   <!--======= Portfolio -->
@@ -174,9 +188,10 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/85eb6915-52ae-
       </h4>
 
 https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6ff82b20-2d18-40c6-b4bd-bd3d84bd0cf0
-
    </td>
-    
+  </tr>
+
+  <tr>
  <!--======= Haunted House -->
   <td style="vertical-align: top; width: 50%;">
       <h4> Haunted House | Primitive Objects <br/>
@@ -189,7 +204,33 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6ff82b20-2d18-
       </h4>
 
 https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-460e-9609-0da8b24e1a84
-
+   </td>
+   
+  <!--=======  -->
+  <td style="vertical-align: top; width: 50%;">
+<!--       <h4> 
+         <br/>
+        <a href="" target="_blank">
+          Codebase
+        </a> &nbsp;&nbsp;
+        <a href="" target="_blank">
+          Live
+        </a> 
+      </h4> -->
+    
+  </td>
+    
+  <!--=======  -->
+  <td style="vertical-align: top; width: 50%;">
+<!--       <h4> 
+        <br/>
+        <a href="" target="_blank">
+          Codebase
+        </a> &nbsp;&nbsp;
+        <a href="" target="_blank">
+          Live
+        </a> 
+      </h4> -->
    </td>
   </tr>
 </table>
