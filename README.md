@@ -145,7 +145,23 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
 Recent developments </h2>
 <table>
   <tr>
-    <!--======= Blender-Planet and Rocket -->
+     <!--======= Coffee Smoke -->
+  <td style="vertical-align: top; width: 50%;">
+      <h4> 
+        Coffee Smoke | Shaders <br/>
+        <a href="https://github.com/ShahramShakiba/Coffee-Smoke-p21" target="_blank">
+          Codebase
+        </a> &nbsp;&nbsp;
+        <a href="https://coffee-smoke-shahram.netlify.app/" target="_blank">
+          Live
+        </a> 
+      </h4>
+
+https://github.com/user-attachments/assets/376a894d-6643-4db0-bd83-abcca54ea88d
+
+   </td>
+   
+<!--======= Blender-Planet and Rocket -->  
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         Blender | Planet & Rocket <br/>
@@ -172,8 +188,10 @@ https://github.com/user-attachments/assets/2e0951ee-2e19-4fb1-bf31-724ce589931b
 
 https://github.com/user-attachments/assets/f0911e3a-3844-41c5-8a38-8bee83f71c20
   </td>
-    
-  <!--======= Portfolio -->
+  </tr>
+
+  <tr>
+     <!--======= Portfolio -->
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         Portfolio | Scroll-Based Animation <br/>
@@ -187,10 +205,8 @@ https://github.com/user-attachments/assets/f0911e3a-3844-41c5-8a38-8bee83f71c20
 
 https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6ff82b20-2d18-40c6-b4bd-bd3d84bd0cf0
    </td>
-  </tr>
-
-  <tr>
-    <!--======= WebGL Fox -->
+   
+<!--======= WebGL Fox -->
   <td style="vertical-align: top; width: 50%;">
       <h4> 
         WebGLFox | Object-Oriented Programming <br/>
@@ -217,19 +233,6 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6ff82b20-2d18-
       </h4>
 
 https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-460e-9609-0da8b24e1a84
-   </td>
-    
-  <!--=======  -->
-  <td style="vertical-align: top; width: 50%;">
-<!--       <h4> 
-        <br/>
-        <a href="" target="_blank">
-          Codebase
-        </a> &nbsp;&nbsp;
-        <a href="" target="_blank">
-          Live
-        </a> 
-      </h4> -->
    </td>
   </tr>
 </table>
