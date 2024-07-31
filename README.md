@@ -160,20 +160,6 @@ Recent developments </h2>
 https://github.com/user-attachments/assets/376a894d-6643-4db0-bd83-abcca54ea88d
 
    </td>
-   
-<!--======= Blender-Planet and Rocket -->  
-  <td style="vertical-align: top; width: 50%;">
-      <h4> 
-        Blender | Planet & Rocket <br/>
-         <a href="https://github.com/user-attachments/assets/a741f73a-a259-401e-99af-d4f4988861ca" target="_blank">
-          Image
-        </a>
-      </h4>
-
-https://github.com/user-attachments/assets/2e0951ee-2e19-4fb1-bf31-724ce589931b
-
-  </td>
-  
   <!--======= Raging Sea -->
   <td style="vertical-align: top; width: 50%;">
       <h4> 
@@ -188,9 +174,23 @@ https://github.com/user-attachments/assets/2e0951ee-2e19-4fb1-bf31-724ce589931b
 
 https://github.com/user-attachments/assets/f0911e3a-3844-41c5-8a38-8bee83f71c20
   </td>
-  </tr>
+  <!--======= WebGL Fox -->
+  <td style="vertical-align: top; width: 50%;">
+      <h4> 
+        WebGLFox | Object-Oriented Programming <br/>
+        <a href="https://github.com/ShahramShakiba/WebGLFox-p15" target="_blank">
+          Codebase
+        </a> &nbsp;&nbsp;
+        <a href="https://webgl-fox-shahram.netlify.app/" target="_blank">
+          Live
+        </a> 
+      </h4>
+    
+  https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/85eb6915-52ae-4d28-8d25-14e1f03486d1
+  </td>
+</tr>
 
-  <tr>
+<tr>
      <!--======= Portfolio -->
   <td style="vertical-align: top; width: 50%;">
       <h4> 
@@ -205,22 +205,6 @@ https://github.com/user-attachments/assets/f0911e3a-3844-41c5-8a38-8bee83f71c20
 
 https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6ff82b20-2d18-40c6-b4bd-bd3d84bd0cf0
    </td>
-   
-<!--======= WebGL Fox -->
-  <td style="vertical-align: top; width: 50%;">
-      <h4> 
-        WebGLFox | Object-Oriented Programming <br/>
-        <a href="https://github.com/ShahramShakiba/WebGLFox-p15" target="_blank">
-          Codebase
-        </a> &nbsp;&nbsp;
-        <a href="https://webgl-fox-shahram.netlify.app/" target="_blank">
-          Live
-        </a> 
-      </h4>
-    
-  https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/85eb6915-52ae-4d28-8d25-14e1f03486d1
-  </td>
-  
  <!--======= Haunted House -->
   <td style="vertical-align: top; width: 50%;">
       <h4> Haunted House | Primitive Objects <br/>
@@ -234,7 +218,43 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/6ff82b20-2d18-
 
 https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-460e-9609-0da8b24e1a84
    </td>
+      
+<!--======= 
+  <td style="vertical-align: top; width: 50%;">
+      <h4> 
+         <br/>
+        <a href="" target="_blank">
+          Codebase
+        </a> &nbsp;&nbsp;
+        <a href="" target="_blank">
+          Live
+        </a> 
+      </h4>
+
+  </td>  -->
   </tr>
+</table>
+
+<br/><br/>
+
+### Blender Creations! 🎨
+- ***Dive deeper into my creative journey by visiting my <a href="https://github.com/ShahramShakiba/Blender-Collection" target="_blank"> repository </a> where I showcase all my Blender masterpieces.*** 🌟
+
+<table>
+  <tr>
+    <!--======= Blender-Planet and Rocket -->  
+  <td style="vertical-align: top; width: 50%;">
+      <h4> 
+        Blender | Planet & Rocket <br/>
+         <a href="https://github.com/user-attachments/assets/a741f73a-a259-401e-99af-d4f4988861ca" target="_blank">
+          Image
+        </a>
+      </h4>
+
+https://github.com/user-attachments/assets/2e0951ee-2e19-4fb1-bf31-724ce589931b
+
+  </td>
+  </tr>  
 </table>
 
 <!--=================================== My Hobbies ====================================-->
