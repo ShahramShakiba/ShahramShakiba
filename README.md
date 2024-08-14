@@ -53,7 +53,7 @@
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
 
-As a visionary 3D Frontend Developer, my curious mind leverages frameworks like `  Three.js  `, `  WebGL  `, `  GLSL(OpenGL Shading Language)  `, `  GSAP Animations  `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.
+As a visionary 3D Web Developer, 3D Modeler, and Animator, my curious mind leverages tools like ` Blender `, and frameworks like `  Three.js  `, `  WebGL  `, `  GLSL(OpenGL Shading Language)  `, ` GSAP Animations `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.
  <br/><br/>
 
 > I place a high value on clear and impactful communication while leveraging my robust technical expertise. <br/> I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence. <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
@@ -93,9 +93,8 @@ _<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473
 <br/>
 
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Fundamental grasp of  </h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I Design Using  </h3>
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> &nbsp;
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/framer-icon.svg" height="40" alt="Fremer logo"  />
   
 <!--   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> -->
