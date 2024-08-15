@@ -53,16 +53,17 @@
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
 
-As a visionary 3D Web Developer, 3D Modeler, and Animator, my curious mind leverages tools like ` Blender `, and frameworks like `  Three.js  `, `  WebGL  `, `  GLSL(OpenGL Shading Language)  `, ` GSAP Animations `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.
+As a visionary 3D Web Developer and 3D Artist, my curious mind leverages tools like ` Blender `, and frameworks like `  Three.js  `, `  WebGL  `, `  GLSL(OpenGL Shading Language)  `, ` GSAP Animations `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.
  <br/><br/>
 
-> I place a high value on clear and impactful communication while leveraging my robust technical expertise. <br/> I am dedicated to cultivating resilient connections with both my team members and clients, demonstrating a steadfast commitment to collaboration and excellence. <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
+> My goal is to continuously learn and grow in my field, staying up-to-date with the latest tools, technologies, and industry trends. <br/><br/>
+> I work well in a collaborative team environment and am fully committed to delivering high-quality projects on time, ensuring every detail is meticulously taken care of. <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="18" alt="hand shacking"  />
 
 <h4>🧩 My motto is: the tougher the challenge in learning, the more valuable the knowledge gained.</h4> 
 
 <!--=================================== My Resume ====================================-->
 _<h4> 🧷 <a href="https://shahram-shakiba.vercel.app/" target="_blank"> &nbsp; My Portfolio  </a> </h4>_ 
-_<h4> 🧷 <a href="https://github.com/ShahramShakiba/ShahramShakiba/files/15473422/ShahramShakibaResume-01.pdf" target="_blank"> &nbsp; My Resume </a> </h4>_ <br/>
+_<h4> 🧷 <a href="https://github.com/user-attachments/files/16627573/Shahram_Shakiba_Resume.pdf" target="_blank"> &nbsp; My Resume </a> </h4>_ <br/>
 
 <!--=================================== MY SKILLS ===================================-->
 <h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I program with  </h2> 
