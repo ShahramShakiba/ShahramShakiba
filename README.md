@@ -94,7 +94,7 @@ _<h4> 🧷 <a href="https://github.com/user-attachments/files/16688401/Shahram_S
 <br/>
 
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I Design Using  </h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I focus on 3D Modeling and Animation Using  </h3>
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> &nbsp;
   
 <!--   <img width="12" />
