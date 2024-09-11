@@ -53,7 +53,7 @@
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
 
-As a visionary 3D Web Developer and 3D Artist, my curious mind leverages tools like ` Blender `, and frameworks like `  Three.js  `, `  WebGL  `, `  GLSL(OpenGL Shading Language)  `, ` GSAP Animations `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.
+As a visionary 3D Artist, 3D Web Developer and Frontend Developer my curious mind leverages tools like ` Blender `, and frameworks like `  Three.js  `, `  WebGL  `, `  GLSL(OpenGL Shading Language)  `, ` GSAP Animations `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.
  <br/><br/>
 
 > My goal is to continuously learn and grow in my field, staying up-to-date with the latest tools, technologies, and industry trends. <br/><br/>
@@ -66,7 +66,12 @@ _<h4> 🧷 <a href="https://shahram-shakiba.vercel.app/" target="_blank"> &nbsp;
 _<h4> 🧷 <a href="https://github.com/user-attachments/files/16688401/Shahram_Shakiba_Resume.pdf" target="_blank"> &nbsp; My Resume </a> </h4>_ <br/>
 
 <!--=================================== MY SKILLS ===================================-->
-<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I program with  </h2> 
+<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee" /> &nbsp; I take great interest in working within the field of 3D modeling and animation using  </h2>
+<img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> &nbsp;
+
+
+  
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" />  &nbsp; I program with  </h3> 
 
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -92,13 +97,6 @@ _<h4> 🧷 <a href="https://github.com/user-attachments/files/16688401/Shahram_S
   <img src="https://github.com/user-attachments/assets/bc3bcd8b-534c-4333-97ff-13c568f1b3ce" height="40" alt="GLSL logo"  />
 
 <br/>
-
-
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I focus on 3D Modeling and Animation Using  </h3>
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> &nbsp;
-  
-<!--   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> -->
 
 <br/>
 
@@ -137,12 +135,35 @@ _<h4> 🧷 <a href="https://github.com/user-attachments/files/16688401/Shahram_S
 
 <br/><br/>
 
+
+## Blender Creations! 🎨
+- ***Dive deeper into my creative journey by visiting my <a href="https://github.com/ShahramShakiba/Blender-Collection" target="_blank"> repository </a> where I showcase all my Blender masterpieces.*** 🌟
+
+<table>
+  <tr>
+    <!--======= Blender-Planet and Rocket -->  
+  <td style="vertical-align: top; width: 50%;">
+      <h4> 
+        Blender | Planet & Rocket <br/>
+         <a href="https://github.com/user-attachments/assets/a741f73a-a259-401e-99af-d4f4988861ca" target="_blank">
+          Image
+        </a>
+      </h4>
+
+https://github.com/user-attachments/assets/2e0951ee-2e19-4fb1-bf31-724ce589931b
+
+  </td>
+  </tr>  
+</table>
+
+<br/><br/>
+
 <!--=================================== Projects ====================================-->
-<h2> <picture>
+<h3> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="32" height="32">
 </picture> &nbsp;
-Recent developments </h2>
+Recent developments </h3>
 <table>
   <tr>
      <!--======= Coffee Smoke -->
@@ -235,27 +256,6 @@ https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/b3581476-a73f-
   </tr>
 </table>
 
-<br/><br/>
-
-### Blender Creations! 🎨
-- ***Dive deeper into my creative journey by visiting my <a href="https://github.com/ShahramShakiba/Blender-Collection" target="_blank"> repository </a> where I showcase all my Blender masterpieces.*** 🌟
-
-<table>
-  <tr>
-    <!--======= Blender-Planet and Rocket -->  
-  <td style="vertical-align: top; width: 50%;">
-      <h4> 
-        Blender | Planet & Rocket <br/>
-         <a href="https://github.com/user-attachments/assets/a741f73a-a259-401e-99af-d4f4988861ca" target="_blank">
-          Image
-        </a>
-      </h4>
-
-https://github.com/user-attachments/assets/2e0951ee-2e19-4fb1-bf31-724ce589931b
-
-  </td>
-  </tr>  
-</table>
 
 <!--=================================== My Hobbies ====================================-->
 <!-- <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="35"  /> &nbsp; Hobbies & Spare Time : </h3>
