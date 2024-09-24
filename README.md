@@ -66,7 +66,7 @@ _<h4> 🧷 <a href="https://shahram-shakiba.vercel.app/" target="_blank"> &nbsp;
 _<h4> 🧷 <a href="https://github.com/user-attachments/files/16688401/Shahram_Shakiba_Resume.pdf" target="_blank"> &nbsp; My Resume </a> </h4>_ <br/>
 
 <!--=================================== MY SKILLS ===================================-->
-<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee" /> &nbsp; I take great interest in working within the field of 3D modeling and animation using  </h2>
+<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee" /> &nbsp; Focused on 3D Modeling and Animation with  </h2>
 <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> &nbsp;
 
 
