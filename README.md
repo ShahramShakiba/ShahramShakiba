@@ -53,7 +53,7 @@
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
 
-As a 3D artist, my favorite part is creating seamless, visually stunning scenes that pull people in.
+As a 3D Artist, my favorite part is creating seamless, visually stunning scenes that pull people in.
 _Blender_ is my go-to for bringing ideas to life, and I put a lot of focus on the little details—like _`Modeling`_, _`Lighting`_, _`Texturing`_, _`Shading`_, _`UV Unwrapping`_, _`Post Processing`_, _`Physics Simulation`_, _`Rendering`_, _`Camera Animation`_, _`Transitions`_ and _` Product Visualization `_ that make everything feel smooth and natural. <br/><br/>
 I ensure every part of the scene, from the environment to the smallest object, works together to create a visually cohesive and immersive experience. 
 While I know how to use tools like _Three.js_, _WebGL_, and _GLSL_ for web-based 3D, my real passion is in crafting immersive 3D art that captivates viewers and keeps them wanting more.
